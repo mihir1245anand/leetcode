@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raghav1245anand/leetcode/tree/master/0014-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghav1245anand/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghav1245anand/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raghav1245anand/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raghav1245anand/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
