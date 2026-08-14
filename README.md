@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raghav1245anand/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raghav1245anand/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/raghav1245anand/leetcode/tree/master/0066-plus-one) |
+| [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 | [1140-stone-game-ii](https://github.com/raghav1245anand/leetcode/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raghav1245anand/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raghav1245anand/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raghav1245anand/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raghav1245anand/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raghav1245anand/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
