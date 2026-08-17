@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
