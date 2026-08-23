@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raghav1245anand/leetcode/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/raghav1245anand/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raghav1245anand/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/raghav1245anand/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raghav1245anand/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghav1245anand/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/raghav1245anand/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/raghav1245anand/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1927-sum-game](https://github.com/raghav1245anand/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raghav1245anand/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raghav1245anand/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghav1245anand/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/raghav1245anand/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/raghav1245anand/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghav1245anand/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghav1245anand/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/raghav1245anand/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raghav1245anand/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/raghav1245anand/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
