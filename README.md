@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/raghav1245anand/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/raghav1245anand/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/raghav1245anand/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raghav1245anand/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raghav1245anand/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/raghav1245anand/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raghav1245anand/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghav1245anand/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
