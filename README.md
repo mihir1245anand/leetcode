@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
 | [1140-stone-game-ii](https://github.com/raghav1245anand/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/raghav1245anand/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
 | [2029-stone-game-ix](https://github.com/raghav1245anand/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raghav1245anand/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raghav1245anand/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raghav1245anand/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/raghav1245anand/leetcode/tree/master/0496-next-greater-element-i) |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raghav1245anand/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -204,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raghav1245anand/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/raghav1245anand/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
