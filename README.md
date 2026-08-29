@@ -1,14 +1,14 @@
 # 🚀 LeetCode Solutions
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solved%2033-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Easy](https://img.shields.io/badge/Easy-15-00b8a3?style=for-the-badge)](https://github.com/mihir1245anand/leetcode)
-[![Medium](https://img.shields.io/badge/Medium-11-ffc01e?style=for-the-badge)](https://github.com/mihir1245anand/leetcode)
-[![Hard](https://img.shields.io/badge/Hard-7-ff375f?style=for-the-badge)](https://github.com/mihir1245anand/leetcode)
-[![C++](https://img.shields.io/badge/C++-25%20Solutions-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mihir1245anand/leetcode)
-[![Python](https://img.shields.io/badge/Python-8%20Solutions-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mihir1245anand/leetcode)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-mihir1245anand-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mihir1245anand/)
+[![Total Solved](https://img.shields.io/badge/Solved-56-FFA116?style=for-the-badge)](https://leetcode.com/u/mihir1245anand/)
+[![Easy](https://img.shields.io/badge/Easy-26-00b8a3?style=for-the-badge)](https://leetcode.com/u/mihir1245anand/)
+[![Medium](https://img.shields.io/badge/Medium-20-ffc01e?style=for-the-badge)](https://leetcode.com/u/mihir1245anand/)
+[![Hard](https://img.shields.io/badge/Hard-10-ff375f?style=for-the-badge)](https://leetcode.com/u/mihir1245anand/)
+[![Streak](https://img.shields.io/badge/Current%20Streak-32%20Days-FF5722?style=for-the-badge&logo=fire&logoColor=white)](https://leetcode.com/u/mihir1245anand/)
 [![Sync](https://img.shields.io/badge/Synced%20With-LeetHub%20v2-1081C1?style=for-the-badge&logo=github)](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-> A curated collection of LeetCode algorithmic problems solved in **C++** and **Python**, with complete problem statements, optimal solutions, and topic-wise categorization. Automated using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+> A collection of **56 LeetCode questions** solved by [@mihir1245anand](https://leetcode.com/u/mihir1245anand/) to ace the coding interview! Solutions are implemented in **C++** and **Python**, with complete problem statements, test cases, and topic-wise categorization. Automated using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Difficulty | Solved | Distribution |
 | :--- | :---: | :--- |
-| 🟢 **Easy** | **15** | `█████████░░░░░░░░░░░` (45.5%) |
-| 🟡 **Medium** | **11** | `██████░░░░░░░░░░░░░░` (33.3%) |
-| 🔴 **Hard** | **7** | `████░░░░░░░░░░░░░░░░` (21.2%) |
-| 🏆 **Total** | **33** | **100%** |
+| 🟢 **Easy** | **26** | `█████████░░░░░░░░░░░` (46.4%) |
+| 🟡 **Medium** | **20** | `███████░░░░░░░░░░░░░` (35.7%) |
+| 🔴 **Hard** | **10** | `███░░░░░░░░░░░░░░░░░` (17.9%) |
+| 🏆 **Total** | **56** | **100%** |
 
 ---
 
