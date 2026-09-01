@@ -87,6 +87,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mihir1245anand/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mihir1245anand/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mihir1245anand/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mihir1245anand/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mihir1245anand/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Knuth–Morris–Pratt Algorithm
@@ -317,4 +320,12 @@
 | [1510-stone-game-iv](https://github.com/mihir1245anand/leetcode/tree/main/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mihir1245anand/leetcode/tree/main/2029-stone-game-ix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
