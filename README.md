@@ -90,6 +90,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghav1245anand/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghav1245anand/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/raghav1245anand/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mihir1245anand/leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mihir1245anand/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghav1245anand/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/raghav1245anand/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
 |  |
 | ------- |
