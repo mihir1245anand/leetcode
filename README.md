@@ -350,4 +350,16 @@
 | [1510-stone-game-iv](https://github.com/mihir1245anand/leetcode/tree/main/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mihir1245anand/leetcode/tree/main/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghav1245anand/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghav1245anand/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghav1245anand/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
