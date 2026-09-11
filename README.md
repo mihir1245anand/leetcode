@@ -95,6 +95,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mihir1245anand/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mihir1245anand/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mihir1245anand/leetcode/tree/main/3875-construct-uniform-parity-array-i) |
@@ -165,6 +166,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Game Theory
@@ -194,6 +196,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mihir1245anand/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mihir1245anand/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mihir1245anand/leetcode/tree/main/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
