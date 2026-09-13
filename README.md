@@ -83,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/mihir1245anand/leetcode/tree/main/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mihir1245anand/leetcode/tree/main/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
+| [0835-image-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/mihir1245anand/leetcode/tree/main/1472-design-browser-history) |
@@ -236,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
