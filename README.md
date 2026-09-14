@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mihir1245anand/leetcode/tree/main/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mihir1245anand/leetcode/tree/main/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
@@ -372,4 +373,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghav1245anand/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
