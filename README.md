@@ -165,6 +165,7 @@
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mihir1245anand/leetcode/tree/main/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghav1245anand/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mihir1245anand/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raghav1245anand/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
@@ -188,6 +189,7 @@
 | [1927-sum-game](https://github.com/mihir1245anand/leetcode/tree/main/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mihir1245anand/leetcode/tree/main/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mihir1245anand/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghav1245anand/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mihir1245anand/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mihir1245anand/leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -323,6 +325,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/mihir1245anand/leetcode/tree/main/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mihir1245anand/leetcode/tree/main/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghav1245anand/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mihir1245anand/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mihir1245anand/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mihir1245anand/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -344,6 +347,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mihir1245anand/leetcode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mihir1245anand/leetcode/tree/main/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raghav1245anand/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mihir1245anand/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
