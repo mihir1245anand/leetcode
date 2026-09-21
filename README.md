@@ -120,6 +120,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/raghav1245anand/leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mihir1245anand/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mihir1245anand/leetcode/tree/main/0066-plus-one) |
+| [0231-power-of-two](https://github.com/raghav1245anand/leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/raghav1245anand/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mihir1245anand/leetcode/tree/main/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/raghav1245anand/leetcode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
