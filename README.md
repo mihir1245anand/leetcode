@@ -88,6 +88,7 @@
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/mihir1245anand/leetcode/tree/main/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raghav1245anand/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mihir1245anand/leetcode/tree/main/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mihir1245anand/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array) |
@@ -117,6 +118,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mihir1245anand/leetcode/tree/main/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mihir1245anand/leetcode/tree/main/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raghav1245anand/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mihir1245anand/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raghav1245anand/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -211,6 +213,7 @@
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raghav1245anand/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mihir1245anand/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mihir1245anand/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences) |
@@ -289,6 +292,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghav1245anand/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raghav1245anand/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/mihir1245anand/leetcode/tree/main/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mihir1245anand/leetcode/tree/main/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mihir1245anand/leetcode/tree/main/3904-smallest-stable-index-ii) |
@@ -317,6 +321,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raghav1245anand/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mihir1245anand/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mihir1245anand/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mihir1245anand/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences) |
