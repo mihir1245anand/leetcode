@@ -112,6 +112,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mihir1245anand/leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -211,6 +213,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -330,6 +333,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mihir1245anand/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -343,6 +347,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mihir1245anand/leetcode/tree/main/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/mihir1245anand/leetcode/tree/main/1472-design-browser-history) |
 ## String
 |  |
@@ -353,6 +358,7 @@
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mihir1245anand/leetcode/tree/main/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mihir1245anand/leetcode/tree/main/2213-longest-substring-of-one-repeating-character) |
