@@ -350,6 +350,7 @@
 | [0225-implement-stack-using-queues](https://github.com/mihir1245anand/leetcode/tree/main/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/mihir1245anand/leetcode/tree/main/1472-design-browser-history) |
 ## String
 |  |
@@ -361,6 +362,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghav1245anand/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/mihir1245anand/leetcode/tree/main/1927-sum-game) |
@@ -423,4 +425,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raghav1245anand/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/raghav1245anand/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
