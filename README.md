@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mihir1245anand/leetcode/tree/main/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mihir1245anand/leetcode/tree/main/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -364,6 +366,7 @@
 | [0014-longest-common-prefix](https://github.com/mihir1245anand/leetcode/tree/main/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -436,6 +439,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raghav1245anand/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
