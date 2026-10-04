@@ -175,6 +175,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mihir1245anand/leetcode/tree/main/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/mihir1245anand/leetcode/tree/main/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghav1245anand/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -203,6 +204,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/mihir1245anand/leetcode/tree/main/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raghav1245anand/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mihir1245anand/leetcode/tree/main/1927-sum-game) |
@@ -355,6 +357,7 @@
 | [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mihir1245anand/leetcode/tree/main/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/mihir1245anand/leetcode/tree/main/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/mihir1245anand/leetcode/tree/main/1472-design-browser-history) |
@@ -369,6 +372,7 @@
 | [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raghav1245anand/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -440,6 +444,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raghav1245anand/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
