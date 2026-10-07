@@ -114,6 +114,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mihir1245anand/leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -139,6 +140,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -374,6 +376,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mihir1245anand/leetcode/tree/main/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/mihir1245anand/leetcode/tree/main/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/raghav1245anand/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raghav1245anand/leetcode/tree/master/0856-score-of-parentheses) |
