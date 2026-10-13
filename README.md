@@ -110,6 +110,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghav1245anand/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mihir1245anand/leetcode/tree/main/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mihir1245anand/leetcode/tree/main/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mihir1245anand/leetcode/tree/main/3903-smallest-stable-index-i) |
@@ -226,6 +227,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mihir1245anand/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mihir1245anand/leetcode/tree/main/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mihir1245anand/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raghav1245anand/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
