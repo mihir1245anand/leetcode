@@ -116,6 +116,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mihir1245anand/leetcode/tree/main/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mihir1245anand/leetcode/tree/main/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/raghav1245anand/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/mihir1245anand/leetcode/tree/main/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mihir1245anand/leetcode/tree/main/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -209,6 +210,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/raghav1245anand/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mihir1245anand/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/raghav1245anand/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Game Theory
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/raghav1245anand/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mihir1245anand/leetcode/tree/main/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mihir1245anand/leetcode/tree/main/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/raghav1245anand/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mihir1245anand/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raghav1245anand/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/raghav1245anand/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
