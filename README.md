@@ -113,6 +113,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/raghav1245anand/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raghav1245anand/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav1245anand/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raghav1245anand/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mihir1245anand/leetcode/tree/main/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghav1245anand/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -158,6 +159,7 @@
 | [1096-brace-expansion-ii](https://github.com/raghav1245anand/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/raghav1245anand/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav1245anand/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [1254-number-of-closed-islands](https://github.com/raghav1245anand/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raghav1245anand/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mihir1245anand/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav1245anand/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
 | ------- |
@@ -457,6 +460,7 @@
 | [1254-number-of-closed-islands](https://github.com/raghav1245anand/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghav1245anand/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mihir1245anand/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav1245anand/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -478,6 +482,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raghav1245anand/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghav1245anand/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghav1245anand/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
